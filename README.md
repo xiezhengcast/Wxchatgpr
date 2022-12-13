@@ -117,7 +117,7 @@ $ tail -f run.log
 
 ````
 # 获取项目
-$ git clone https://github.com/869413421/wechatbot.git
+$ git clone  https://github.com/xiezhengcast/Wxchatgpr.git
 
 # 进入项目目录
 $ cd wechatbot
